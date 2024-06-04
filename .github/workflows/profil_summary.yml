@@ -8,10 +8,10 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    name: generate-github-cards
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    name: generate-github-cards
 
     steps:
     - uses: actions/checkout@v2
