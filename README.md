@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariko</h1>
-<h3 align="center">I am a 42 Paris Student studying Full-stack Development. </br>I am looking to start my mid cursus 6 months internship🌱</h3>
+<h3 align="center">I am a 42 Paris Student studying Full-stack Development🌱</h3>
 
 
 
